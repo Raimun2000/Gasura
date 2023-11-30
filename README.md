@@ -1,7 +1,8 @@
 # Gasura
 Combustible a base de residuos secos
 
-![Image](https://github.com/users/Raimun2000/projects/1/assets/17229566/5a355cfc-4571-44f2-8693-3699d7765a79)
+![EL GASURA Y SUS UTILIDADES](https://github.com/Raimun2000/Gasura/blob/principal/gasura.jpg)
+
 Con "Gasura" podrá crear su propio gasificador para alimentar un motor con este combustible hecho a base de residuos secos. (Vea todos los detalles en el manual).
 
 **# Links de interés:**
