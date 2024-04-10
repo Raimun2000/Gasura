@@ -14,3 +14,5 @@ Manual en español: [Manual en español para construir el gasificador](https://a
 Página oficial en inglés: [DRIVEONWASTE.COM](https://driveonwaste.com/)
 
 Manual en inglés: [Manual en inglés para construir el gasificador](https://driveonwaste.com/wp-content/uploads/2023/09/Eng-Manual-DOW-V4.pdf)
+
+Manual para obtener [Electricidad gratis usando basura](https://autoabasura.com/archivos/electricidad-gratis-liviano.pdf)
